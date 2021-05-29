@@ -3,7 +3,7 @@
 * [How to use it](#how-to-use-it)
 * [Technologies](#technologies)
 
-# General info
+## General info
 
 This boilerplate was created to speed up my API building process, adding some things such as folder structures, routes, setting up the server and linters.
 
