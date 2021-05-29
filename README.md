@@ -21,6 +21,18 @@ And start the development server with:
 $ yarn dev
 ``` 
 
+Linter:
+
+```
+$ yarn lint
+``` 
+
+Build:
+
+```
+$ yarn build
+``` 
+
 ## Technologies
 
 * Nodejs
