@@ -1,8 +1,8 @@
-import express, { Request, Response, NextFunction } from "express";
+import express, { Request, Response } from "express";
 
 const router = express.Router();
 
-router.get("/", async (req: Request, res: Response, next: NextFunction) => {
+router.get("/", async (req: Request, res: Response) => {
   res.json({ status: "OK" });
 });
 
